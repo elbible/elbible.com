@@ -1,0 +1,30 @@
+<?php
+
+$lang['UnitPage'] = "장";
+$lang['UnitRow'] = "절";
+$lang['SelectBook'] = "책 선택";
+$lang['SelectPage'] = "장 선택";
+$lang['Close'] = "닫기";
+$lang['Setting'] = "설정";
+$lang['Language'] = "언어";
+$lang['SetLanguage'] = "언어 선택";
+$lang['TransBook'] = "번역본";
+$lang['SetTranslationBook'] = "번역본 석택";
+$lang['AboutTitle'] = "About";
+$lang['Notice'] = "공지사항";
+$lang['AboutNDonation'] = "About & Donation";
+$lang['RequireLogin'] = "로그인이 필요합니다.";
+$lang['EmailAdress'] = "이메일 주소";
+$lang['Password'] = "비밀번호";
+$lang['SaveLoginSession'] = "기억하기";
+$lang['SignIn'] = "로그인";
+$lang['Register'] = "회원가입";
+$lang['RegisterForm'] = "회원 가입 양식";
+$lang['UserName'] = "사용자명";
+$lang['PasswordConfirmed'] = "패스워드 확인";
+$lang['loginFailed'] = "ID나 패스워드가 틀려 로그인에 실패했습니다.";
+$lang['login'] = "로그인";
+$lang['logout'] = "로그아웃";
+$lang['orderOrigin'] = "원본순";
+$lang['orderWord'] = "가나다순";
+$lang['WritePostContents'] = "작성할 내용을 입력해주세요.";

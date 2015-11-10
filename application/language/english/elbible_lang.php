@@ -1,0 +1,30 @@
+<?php
+
+$lang['UnitPage'] = "Page";
+$lang['UnitRow'] = "Row";
+$lang['SelectBook'] = "Select Book";
+$lang['SelectPage'] = "Select Page";
+$lang['Close'] = "Close";
+$lang['Setting'] = "Setting";
+$lang['Language'] = "Language";
+$lang['SetLanguage'] = "Set Language";
+$lang['SetTranslationBook'] = "Set Translation Book";
+$lang['TransBook'] = "Tranlation Book";
+$lang['AboutTitle'] = "About";
+$lang['Notice'] = "Notice";
+$lang['AboutNDonation'] = "About & Donation";
+$lang['RequireLogin'] = "Please sign in.";
+$lang['EmailAdress'] = "Email adress";
+$lang['Password'] = "Password";
+$lang['SaveLoginSession'] = "Remember me.";
+$lang['SignIn'] = "Sign In.";
+$lang['Register'] = "Register";
+$lang['RegisterForm'] = "Register Form";
+$lang['UserName'] = "User Name";
+$lang['PasswordConfirmed'] = "Password Confirmed";
+$lang['loginFailed'] = "login failed. reConfirmed your id or password.";
+$lang['login'] = "LogIn";
+$lang['logout'] = "LogOut";
+$lang['orderOrigin'] = "order by Origin";
+$lang['orderWord'] = "order by Word";
+$lang['WritePostContents'] = "enter message.";

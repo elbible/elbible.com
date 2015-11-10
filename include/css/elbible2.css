@@ -1,0 +1,4 @@
+.menuWrap   {  }
+.float-menu { top:0; width:98%; position:fixed; z-index:9999; opacity:0.9; }
+ 
+.blogmenu   { margin:0 0 10px; padding:5px 0; width:970px; background:#fff; border-bottom:1px solid #666; }
