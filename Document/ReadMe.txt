@@ -9,3 +9,13 @@
   - $db['default']['username'] = 'elbible_db_username';  // modify your database configuration
   - $db['default']['password'] = 'elbible_db_password';	 // modify your database configuration
   - $db['default']['database'] = 'elbible_db';		 // modify your database configuration
+
+ 3) init Bible Data 
+  - path : Document\DB.sql
+  - mysql [dbname] Document\DB.sql
+
+ 4) insert bible book
+  - path : tools\ENG_KJV-txt.sql
+  - mysql [dbname] tools\ENG_KJV-txt.sql
+  - another translate book is same way insert query
+  - if you want new translate book, you use 'tools\txtToSql.php' that is txtType book converting batch to insert query.

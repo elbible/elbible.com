@@ -1,5 +1,8 @@
 <?php
 
+// first file is txt file as bible txt format
+// output file is add .sql extends query file
+
 $srcFile=fopen($argv[1],"r");
 $dstFile=fopen($argv[1].".sql","w");
 
