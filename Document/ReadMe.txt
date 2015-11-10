@@ -13,6 +13,9 @@
  3) init Bible Data 
   - path : Document\DB.sql
   - mysql [dbname] Document\DB.sql
+  
+   * reference code table : https://goo.gl/ZUUgF6 
+   
 
  4) insert bible book
   - path : tools\ENG_KJV-txt.sql
